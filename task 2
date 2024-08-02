@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="eng">
+     <head>
+       <b>
+        Student Registration Form
+       </b>
+     </head>
+     <body>
+        <div cellspacing="29">
+            <div padding="300">
+                <label>First Name: </label> 
+                <input type="text">
+              </div>
+              <div padding="300">
+                <label>Last Name: </label> 
+                <input type="text">
+              </div>
+              <div padding="300">
+                <label>Date Of Birth: </label> 
+                <input type="date">
+              </div>
+              <div padding="300">
+                <label>Email id: </label> 
+                <input type="email">
+              </div>
+              <div padding="300">
+                <label>Movile Number </label> 
+                <input type="number">
+              </div>     
+        </div>
+        <button>Submit</button>
+        <button>Reset</button>
+       
+        
+     </body>
+</html>
